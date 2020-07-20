@@ -1,3 +1,3 @@
 # MachineLearning
-Projects on Machine Learning
+Machine Learning Algorithums and Python learning
 ![](/MachineLearningProcessFlow.jfif)
